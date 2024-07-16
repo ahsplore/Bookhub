@@ -1,0 +1,13 @@
+.bg-custom {
+	background-color: #4527a0 !important;
+}
+
+.text-custom {
+	color: #4527a0;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: #fff;
+	color:  #4527a0;
+	border-radius: 10px;
+}
